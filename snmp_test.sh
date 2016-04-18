@@ -1,7 +1,7 @@
 #!/bin/bash
 ########################
 #                      #
-# SCRIPT SNMP SUR HOST #
+#  SCRIPT ON SUR HOST  #
 #        V1.0          #
 #Auteur : Barreyre.M   #
 #Auteur : Allard.C     #
