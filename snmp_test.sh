@@ -1,12 +1,13 @@
 #!/bin/bash
-########################
-#                      #
-#  SCRIPT SNMP ON HOST #
-#        V1.0          #
-#Auteur : Barreyre.M   #
-#Auteur : Allard.C     #
-#Date : 08/04/2016     #
-########################
+##################################
+#                                #
+#  SCRIPT SNMP ON HOST           #
+#        V1.0                    #
+#Auteur : Barreyre.M             #
+#Auteur : Allard.C               #
+#Date : 08/04/2016               #
+#https://github.com/Allard-Chris #
+##################################
 
 #  Table of cummunities
 tab_communitie=( "public" "prive" );
