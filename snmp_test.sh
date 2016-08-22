@@ -5,6 +5,7 @@
 #  Auteur : Barreyre Mylène & Allard Chris
 #    Date : 08/04/2016
 # Version : 1.0
+#  Github : https://github.com/Allard-Chris/snmp-test.git
 #
 # Script who looping on hosts with a snmpwalk
 #
