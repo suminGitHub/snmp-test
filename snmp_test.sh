@@ -1,13 +1,14 @@
 #!/bin/bash
-##################################
-#                                #
-#  SCRIPT SNMP ON HOST           #
-#        V1.0                    #
-#Auteur : Barreyre.M             #
-#Auteur : Allard.C               #
-#Date : 08/04/2016               #
-#https://github.com/Allard-Chris #
-##################################
+#-----------------------------------------------
+#
+#     Nom : snmp_test.sg
+#  Auteur : Barreyre Mylène & Allard Chris
+#    Date : 08/04/2016
+# Version : 1.0
+#
+# Script who looping on hosts with a snmpwalk
+#
+#-----------------------------------------------
 
 #  Table of cummunities
 tab_communitie=( "public" "prive" );
